@@ -9,4 +9,5 @@ O jogo consiste em explorar a escola abandonada, encontrando e acumulando itens,
 Mapa:
 
 
-![mapa_escola_abandonada](https://user-images.githubusercontent.com/114364425/192166016-62151a47-1e2d-4609-ba2a-2d54c9760329.png)
+
+![mapa_escola_abandonada_zoom](https://user-images.githubusercontent.com/114364425/192166500-2c7fad19-2458-44cd-bc9c-30da720c234c.png)
